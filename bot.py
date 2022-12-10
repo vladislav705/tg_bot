@@ -3,7 +3,7 @@
 # 5901195749:AAEzSxWowMMPWmI-d4_zp60tSt7X_XMushQ
 
 
-
+print('Включаем бота!!!!!')
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
